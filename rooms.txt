@@ -1,0 +1,38 @@
+RoomName: Pallet Town
+Number: 1
+Desc: Home sweet home.
+Desc: A small sleepy little village
+Desc: You see people you know lazing
+Desc: with their Pokemons around you.
+Exit: South 2
+RoomName: Forest
+Number: 2
+Desc: There are trees all around you.
+Desc: The sun is gleaming down
+Desc: through the leaves, casting a warm
+Desc: glow on your skin.
+Exit: East 3
+Exit: West 4
+Exit: North 1
+RoomName: Ruins
+Number: 3
+Desc: You see the remains of buildings that has
+Desc: been destroyed and covered in vines.
+Desc: The silence is looming over you
+Desc: as the chilly wind grazes your skin.
+Exit: West 2
+RoomName: Entrance to Cave
+Number: 4
+Desc: Through the thickets of the forest you
+Desc: see a hidden and windy path that leads to
+Desc: an entrance to a cave.
+Desc: It looks dark in there.
+Exit: East 2
+Exit: West 5
+RoomName: Inside Cave
+Number: 5
+Desc: It is dark and murky inside the cave.
+Desc: You see remains of what looks
+Desc: like an abandoned campsite.
+Desc: There seems to be no signs of anybody else here.
+Exit: East 4
